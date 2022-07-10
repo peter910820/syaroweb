@@ -40,3 +40,15 @@ a:hover{
   color: royalblue;
   text-decoration:none
 }
+
+.about{
+  font-size: 20px;
+}
+
+h1{
+  font-weight:bold;
+}
+
+h2{
+  font-weight:bold;
+}
