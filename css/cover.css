@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'JetBrainsMonoNL-SemiBoldItalic';
+  src: url('../font/JetBrainsMonoNL-SemiBoldItalic.ttf');
+}
+
 .jumbotron {
     background-image: url("../img/jumb.png");
     background-size: cover;
@@ -51,4 +56,8 @@ h1{
 
 h2{
   font-weight:bold;
+}
+
+body{
+  font-family: 'JetBrainsMonoNL-SemiBoldItalic' ;
 }
