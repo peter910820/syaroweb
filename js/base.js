@@ -1,5 +1,6 @@
 let jumbotronSubtext = document.getElementById("jumbotronSubtext");
 let jumbotronButton = document.getElementById("jumbotronButton");
+
 let leftSection = document.getElementById("leftSection");
 let nav = document.getElementById("nav");
 
